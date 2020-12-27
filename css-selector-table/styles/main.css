@@ -1,0 +1,29 @@
+#titulo {
+  color: teal;
+}
+.enlace,
+.red {
+  color: red;
+}
+
+.destacado,
+.especial {
+  color: orange;
+}
+#subtitulo,
+.titulo,
+.em {
+  color: blue;
+}
+.purus {
+  color: purple;
+}
+.green {
+  color: green;
+}
+#adicional {
+  color: olive;
+}
+#pink {
+  color: fuchsia;
+}
