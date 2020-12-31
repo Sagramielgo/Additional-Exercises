@@ -9,11 +9,12 @@
 }
 .box1 {
   width: 60%;
-  background-color: fuchsia;
+  background-color: rgba(248, 7, 208, 0.5);
+  float: left;
 }
 .box2 {
   width: 30%;
-  background-color: cyan;
+  background-color: rgb(0, 255, 255, 0.5);
   float: right;
 }
 .box3 {
